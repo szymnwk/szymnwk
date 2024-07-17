@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi 👋
+- I'm Szymon Nowak
+- 28 years old
+- Based in Katowice, Poland 🇵🇱
+- Co-Founder & CTO at [Digital Colliers](https://www.digitalcolliers.com)
+- Software Engineer oriented towards TypeScript/JavaScript
+- My dream stack: React, Next.js, NestJS, AWS
 
 <!--
 **szymnwk/szymnwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
